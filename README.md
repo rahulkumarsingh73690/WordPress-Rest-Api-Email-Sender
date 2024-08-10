@@ -1,8 +1,8 @@
-# REST API Email Sender Plugin
+# WordPress REST API Email Sender Plugin
 
 ## Introduction
 
-The REST API Email Sender plugin allows you to send HTML emails via a REST API with API key authentication in WordPress. This plugin provides an endpoint to send emails with customizable sender names and reply-to addresses.
+The WordPress REST API Email Sender plugin allows you to send HTML emails via a REST API with API key authentication in WordPress. This plugin provides an endpoint to send emails with customizable sender names and reply-to addresses.
 
 ## Features
 
