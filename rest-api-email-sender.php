@@ -3,7 +3,10 @@
 Plugin Name: REST API Email Sender
 Description: A plugin to send HTML emails via REST API with API key authentication.
 Version: 1.4
-Author: Rahul Kumar Singh
+Author: VKRSI
+Author URI: https://vkrsi.com
+License: MIT
+License URI: https://opensource.org/licenses/MIT
 */
 
 if (!defined('ABSPATH')) {
